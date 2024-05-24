@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!--  CONFIGURATION VARIABLES  -->
+		
+	<term key="DefaultLang">esp</term>	<!--  Idioma por defecto (si no se pasa por flashVar): eng, esp, por  -->
+	<term key="LangLabel">[LANG]</term>	<!--  Etiqueta que se reemplaza por el cdigo de idioma en las rutas de texto y sonido  -->
+	<term key="TextsPath">texts/texts-[LANG].xml</term>	<!--  Ruta al archivo con textos dinmicos (se puede usar "LangLabel" para armarlo)  -->	
+		
+	<term key="DuracionPowerUps">6500</term>
+	<term key="BonusSpecialBloque">10</term>
+	<term key="PinballReflectForce">20</term>
+	<term key="DestelloScale">0.5</term>
+	<term key="HumoScale">1.2</term>
+	<term key="HumoPersonajesScale">1.2</term>
+	<term key="IntervaloDeHumo">3</term>
+	<term key="CantidadDeNiveles">6</term>
+	<term key="GolesPorPartido">3</term>
+
+	<!-- STATS -->
+		
+	<term key="DexterForce">18</term>
+	<term key="DexterForceSpecial">28</term>
+	<term key="DexterSpeed">15</term>
+	<term key="DexterBarIncrement">1</term>
+	
+	<term key="ChowderForce">18</term>
+	<term key="ChowderForceSpecial">28</term>
+	<term key="ChowderSpeed">15</term>
+	<term key="ChowderBarIncrement">1</term>
+	
+	<term key="Billy&MandyForce">18</term>
+	<term key="Billy&MandyForceSpecial">28</term>
+	<term key="Billy&MandySpeed">15</term>
+	<term key="Billy&MandyBarIncrement">1</term>
+	
+	<term key="PpgZForce">18</term>
+	<term key="PpgZForceSpecial">28</term>
+	<term key="PpgZSpeed">15</term>
+	<term key="PpgZBarIncrement">1</term>
+	
+	<term key="FosterForce">18</term>
+	<term key="FosterForceSpecial">28</term>
+	<term key="FosterSpeed">15</term>
+	<term key="FosterBarIncrement">1</term>
+	
+	<term key="FlapjackForce">18</term>
+	<term key="FlapjackForceSpecial">28</term>
+	<term key="FlapjackSpeed">15</term>
+	<term key="FlapjackBarIncrement">1</term>
+	
+	<term key="Ben10Force">18</term>	
+	<term key="Ben10ForceSpecial">28</term>	
+	<term key="Ben10Speed">15</term>
+	<term key="Ben10BarIncrement">1</term>
+	
+	<term key="EchoForce">18</term>	
+	<term key="EchoForceSpecial">28</term>	
+	<term key="EchoSpeed">15</term>
+	<term key="EchoBarIncrement">1</term>
+	
+	<!-- Power Ups -->
+		
+	<term key="Special">100</term>	
+	<term key="Speed">20</term>	
+	
+	
+	
+	
+	<!-- DELTA X EN MODO CENTINELA -->
+	<term key="deltaXModoCentinela">45</term>
+	<term key="deltaPowerUps">45</term>
+	<term key="deltaDos">10</term>
+	<term key="deltaHitSpecial">35</term>
+	
+	<!-- VALORES PARA LA CARGA DE LA BARRA Y DISPARO DEL ESPECIAL -->
+	<term key="chargeTimeWait">1000</term><!-- tiempo de espera entre rafagas de carga en milisegundos-->
+	<term key="specialTimeWait">2000</term><!-- tiempo de espera entre disparo de especial en milisegundos-->
+	
+	
+	<!-- IA -->
+	
+	<term key="Level1AgresividadDisparo">false</term>	
+	<term key="Level1AgresividadCubrir">false</term>	
+	<term key="Level1HitProb">0.5</term>	
+	<term key="Level1Delay">250</term>	
+	
+	<term key="Level2AgresividadDisparo">false</term>	
+	<term key="Level2AgresividadCubrir">false</term>	
+	<term key="Level2HitProb">0.6</term>	
+	<term key="Level2Delay">150</term>	
+	
+	<term key="Level3AgresividadDisparo">true</term>	
+	<term key="Level3AgresividadCubrir">false</term>	
+	<term key="Level3HitProb">0.6</term>	
+	<term key="Level3Delay">100</term>	
+	
+	<term key="Level4AgresividadDisparo">true</term>	
+	<term key="Level4AgresividadCubrir">true</term>	
+	<term key="Level4HitProb">0.7</term>	
+	<term key="Level4Delay">75</term>	
+	
+	<term key="Level5AgresividadDisparo">false</term>	
+	<term key="Level5AgresividadCubrir">true</term>	
+	<term key="Level5HitProb">0.8</term>	
+	<term key="Level5Delay">50</term>	
+	
+	<term key="Level6AgresividadDisparo">true</term>	
+	<term key="Level6AgresividadCubrir">true</term>	
+	<term key="Level6HitProb">0.85</term>	
+	<term key="Level6Delay">44</term>	
+	
+	
+	<!-- Lista de Personajes -->
+	
+	<term key="CantidadPersonajes">8</term>
+
+	<term key="Personaje1">Dexter</term>
+	<term key="Personaje2">Chowder</term>
+	<term key="Personaje3">Billy&amp;Mandy</term>
+	<term key="Personaje4">PpgZ</term>
+	<term key="Personaje5">Foster</term>
+	<term key="Personaje6">Ben10</term>
+	<term key="Personaje7">Flapjack</term>
+	<term key="Personaje8">Echo</term>
+	
+	<term key="DexterScale">0.90</term>
+	<term key="ChowderScale">0.74</term>
+	<term key="Billy&MandyScale">1.28</term>
+	<term key="PpgZScale">0.92</term>
+	<term key="FosterScale">0.63</term>
+	<term key="FlapjackScale">0.67</term>
+	<term key="Ben10Scale">0.58</term>
+	<term key="EchoScale">0.65</term>
+	
+
+	<!-- para colorear -->
+	
+	<term key="DexterColor">0x005E95</term>
+	<term key="ChowderColor">0x751B64</term>
+	<term key="Billy&MandyColor">0xF96489</term>
+	<term key="PpgZColor">#5CB3BA</term>
+	<term key="FosterColor">0xC12B2E</term>
+	<term key="FlapjackColor">0xF3CA4E</term>
+	<term key="Ben10Color">0xD9FC9C</term>
+	<term key="EchoColor">0xFFFFFF</term>
+	
+	<!-- ESTADO INICIAL PRIMER JUEGO , salvo que haya un archivo salvado-->
+	
+	<term key="FlapjackLock">OFF</term>
+	<term key="Ben10Lock">OFF</term>	
+	<term key="ChowderLock">OFF</term>
+	<term key="Billy&MandyLock">OFF</term>
+	<term key="EchoLock">OFF</term>
+	
+	<term key="FosterLock">ON</term>
+	<term key="DexterLock">ON</term>
+	<term key="PpgZLock">ON</term>
+	
+		
+	<!-- Orden en que se destraba a jugadores -->
+	
+	<term key="PersonajesADestrabar">3</term>
+	
+	<term key="Destrabado1">Dexter</term>
+	<term key="Destrabado2">Foster</term>
+	<term key="Destrabado3">PpgZ</term>
+
+	
+	<!-- RONDA DE ENEMIGOS PARA -->
+	
+	<!-- BEN 10 -->
+		
+	<term key="Ben10Level1Enemy">Foster</term>
+	<term key="Ben10Level2Enemy">Billy&amp;Mandy</term>
+	<term key="Ben10Level3Enemy">Dexter</term>
+	<term key="Ben10Level4Enemy">Flapjack</term>
+	<term key="Ben10Level5Enemy">Chowder</term>
+	<term key="Ben10Level6Enemy">PpgZ</term>
+	
+	<!-- Echo -->
+		
+	<term key="EchoLevel1Enemy">Foster</term>
+	<term key="EchoLevel2Enemy">Billy&amp;Mandy</term>
+	<term key="EchoLevel3Enemy">Dexter</term>
+	<term key="EchoLevel4Enemy">Flapjack</term>
+	<term key="EchoLevel5Enemy">Chowder</term>
+	<term key="EchoLevel6Enemy">PpgZ</term>
+	
+	<!-- DEXTER -->
+	
+	<term key="DexterLevel1Enemy">Billy&amp;Mandy</term>
+	<term key="DexterLevel2Enemy">Ben10</term>
+	<term key="DexterLevel3Enemy">Chowder</term>
+	<term key="DexterLevel4Enemy">Foster</term>
+	<term key="DexterLevel5Enemy">Flapjack</term>
+	<term key="DexterLevel6Enemy">PpgZ</term>
+	
+	<!-- CHOWDER -->
+	
+	<term key="ChowderLevel1Enemy">Dexter</term>
+	<term key="ChowderLevel2Enemy">Ben10</term>
+	<term key="ChowderLevel3Enemy">Billy&amp;Mandy</term>
+	<term key="ChowderLevel4Enemy">Flapjack</term>
+	<term key="ChowderLevel5Enemy">Foster</term>
+	<term key="ChowderLevel6Enemy">PpgZ</term>
+	
+	<!-- BILLY & MANDY -->
+	
+	<term key="Billy&MandyLevel1Enemy">Ben10</term>
+	<term key="Billy&MandyLevel2Enemy">Foster</term>
+	<term key="Billy&MandyLevel3Enemy">Flapjack</term>
+	<term key="Billy&MandyLevel4Enemy">Chowder</term>
+	<term key="Billy&MandyLevel5Enemy">Dexter</term>
+	<term key="Billy&MandyLevel6Enemy">PpgZ</term>
+	
+	<!-- FOSTER -->
+	
+	<term key="FosterLevel1Enemy">Billy&amp;Mandy</term>
+	<term key="FosterLevel2Enemy">Chowder</term>
+	<term key="FosterLevel3Enemy">Dexter</term>
+	<term key="FosterLevel4Enemy">Ben10</term>
+	<term key="FosterLevel5Enemy">Flapjack</term>
+	<term key="FosterLevel6Enemy">PpgZ</term>
+	
+	<!-- PPGZ -->
+	
+	<term key="PpgZLevel1Enemy">Chowder</term>
+	<term key="PpgZLevel2Enemy">Dexter</term>
+	<term key="PpgZLevel3Enemy">Foster</term>
+	<term key="PpgZLevel4Enemy">Billy&amp;Mandy</term>
+	<term key="PpgZLevel5Enemy">Flapjack</term>
+	<term key="PpgZLevel6Enemy">Ben10</term>
+	
+	<!-- FLAPJACK -->
+	
+	<term key="FlapjackLevel1Enemy">Billy&amp;Mandy</term>
+	<term key="FlapjackLevel2Enemy">Foster</term>
+	<term key="FlapjackLevel3Enemy">Dexter</term>
+	<term key="FlapjackLevel4Enemy">Ben10</term>
+	<term key="FlapjackLevel5Enemy">Chowder</term>
+	<term key="FlapjackLevel6Enemy">PpgZ</term>
+	
+	<!-- SONIDOS -->
+		
+	<term key="MasterVolume">1</term>
+			
+
+	<term key="VolumeMusicMainScreen">0.6</term>
+	<term key="VolumeMusicInGame">0.4</term>
+	<term key="VolumeMusicGameLost">0.6</term>
+	<term key="VolumeMusicGameWon">0.6</term>
+	<term key="VolumeMusicFinal">0.7</term>
+	
+	<term key="VolumeSoundPowerBlock">0.8</term>
+	<term key="VolumeSoundBlock">0.8</term>
+	<term key="VolumeSoundBallHit">0.6</term>
+	<term key="VolumeSoundBallReflected">1</term>
+		
+	<term key="VolumeSoundStart">1</term>
+	<term key="VolumeSoundCharacterNavigation">0.4</term>
+	<term key="VolumeSoundCharacterSelected">1</term>
+	<term key="VolumeSoundGameStart">1</term>
+	<term key="VolumeSoundLevelEnd">1</term>
+	
+	<term key="VolumeSoundPowerSpeed">1</term>
+	<term key="VolumeSoundPowerSpecial">0.75</term>
+	
+	<term key="VolumeSoundBadScore">1</term>
+	<term key="VolumeSoundGoodScore">1</term>
+	
+	<term key="VolumeSoundSpecial">0.8</term>
+	<term key="VolumeSoundAttack">2</term>
+	
+	<term key="VolumeSoundBarMax">1</term>
+	
+	<term key="VolumeSoundNavigation">0.8</term>
+	<term key="VolumeSoundLocked">0.8</term>
+	<term key="VolumeSoundTransition">0.3</term>
+
+	
+</config>

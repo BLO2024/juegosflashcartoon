@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texts lang="ES">
+	<!--  TEXTS  -->
+
+
+	<!-- VARIOS -->
+	<term key="PressBar">PRESIONA BARRA PARA CONTINUAR</term>
+	<term key="J1">J1</term>
+	<term key="J2">J2</term>
+	
+	<!-- MAIN MENU SCREEN -->
+	<term key="MainScreenTournamentButton"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_55" SIZE="15" COLOR="#24C4EA" LETTERSPACING="0" KERNING="0"><B>TORNEO</B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="MainScreenVersusButton"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_55" SIZE="15" COLOR="#24C4EA" LETTERSPACING="0" KERNING="0"><B>VERSUS</B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="TextSelectedColor">0xFFFFFF</term>
+	
+	<!-- CHARACTER SELECTION SCREEN -->
+	<term key="CharacterSelectionTitle1"><![CDATA[<TEXTFORMAT LEADING="2"><<p align="center"><font face="hooge 06_55" size="15" color="#1ff4ff" letterSpacing="0.000000" kerning="0"><b>JUGADOR 1 ELIGE PERSONAJE</b></font></p></TEXTFORMAT>]]></term>
+	<term key="CharacterSelectionTitle2"><![CDATA[<TEXTFORMAT LEADING="2"><p align="center"><font face="hooge 06_55" size="15" color="#ff0000" letterSpacing="0.000000" kerning="0"><b>JUGADOR 2 ELIGE PERSONAJE</b></font></p></TEXTFORMAT>]]></term>
+	<term key="Strength">poder:</term>
+	<term key="Speed">velocidad:</term>
+	<term key="Name">nombre:</term>
+		
+	<!-- VERSUS SCREEN  -->
+	<!-- <![CDATA[ ]]> -->
+	<term key="Levelbegin"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="21" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>NIVEL ]]></term>
+	<term key="Levelend"><![CDATA[</B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="Movement"><![CDATA[<TEXTFORMAT LEADING="-2"><p align="center"><font face="hooge 06_56" size="12" color="#ffffff" letterSpacing="-2.000000" kerning="0"><b>MOVIMIENTOS</b></font></p></TEXTFORMAT>]]></term>
+	<term key="Hit"><![CDATA[<TEXTFORMAT LEADING="-2"><p align="center"><font face="hooge 06_56" size="12" color="#ffffff" letterSpacing="-2.000000" kerning="0"><b>GOLPE</b></font></p></TEXTFORMAT>]]></term>
+	<!--<term key="SpecialHit"><![CDATA[<TEXTFORMAT LEADING="-3"><P ALIGN="LEFT"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>GOLPE ESPECIAL</B></FONT></P></TEXTFORMAT>]]></term>-->
+	<term key="SpecialHit"><![CDATA[<TEXTFORMAT LEADING="-3"><p align="center"><font face="hooge 06_56" size="12" color="#ffffff" letterSpacing="-2.000000" kerning="0"><b>GOLPE ESPECIAL</b></font></p></TEXTFORMAT>]]></term>
+	<term key="J1Versus"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="hooge 06_66" SIZE="22" COLOR="#0099CC" LETTERSPACING="-2" KERNING="0"><B>J1</B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="J2Versus"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="hooge 06_66" SIZE="22" COLOR="#FF0000" LETTERSPACING="-2" KERNING="0"><B>J2</B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="PressBarVersus"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#00FFFF" LETTERSPACING="-2" KERNING="0"><B>PRESIONA BARRA PARA CONTINUAR</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#00FFFF" LETTERSPACING="-2" KERNING="0"></FONT></P></TEXTFORMAT>]]></term>
+	
+	<term key="MovementP2"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>MOVIMIENTOS</B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="HitP2"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>GOLPE</B></FONT></P></TEXTFORMAT>]]></term>
+	<!--<term key="SpecialHitP2"><![CDATA[<TEXTFORMAT LEADING="-3"><P ALIGN="RIGHT"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>GOLPE ESPECIAL</B></FONT></P></TEXTFORMAT>]]></term>-->
+	<term key="SpecialHitP2"><![CDATA[<TEXTFORMAT LEADING="-3"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>GOLPE ESPECIAL</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="-3"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>HIT</B></FONT></P></TEXTFORMAT>]]></term>
+	
+	<term key="PLAYER1"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="14" COLOR="#00CCFF" LETTERSPACING="-2" KERNING="0"><B>JUGADOR 1</B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="PLAYER2"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="14" COLOR="#FF3300" LETTERSPACING="-2" KERNING="0"><B>JUGADOR 2</B></FONT></P></TEXTFORMAT>]]></term>
+
+
+	<!-- Cartelito de Listos / Preparados -->
+	<term key="GetReady"><![CDATA[<TEXTFORMAT LEADING="2"><p align="center"><font face="hooge 06_56" size="23" color="#ffffff" letterSpacing="-2.000000" kerning="0"><b>LISTOS</b></font></p></TEXTFORMAT>]]></term>
+	<term key="Go"><![CDATA[<TEXTFORMAT LEADING="2"><<p align="center"><font face="hooge 06_56" size="23" color="#ffffff" letterSpacing="-9.000000" kerning="0"><b>¡</b><font letterSpacing="-2.000000"><b>YA!</b></font></font></p></TEXTFORMAT>]]></term>
+	
+	<!-- YOU WIN  -->
+	
+	<term key="YouWin"><![CDATA[<TEXTFORMAT LEADING="2"><p align="center"><font face="hooge 06_56" size="47" color="#00ccff" letterSpacing="-24.000000" kerning="0"><b>¡</b><font letterSpacing="-9.000000"><b>HAS GANADO!</b></font></font></p></TEXTFORMAT>]]></term>
+	
+	<term key="P1Wins"><![CDATA[<TEXTFORMAT LEADING="2"><p align="center"><font face="hooge 06_56" size="34" color="#00ccff" letterSpacing="-4.000000" kerning="0"><b>JUGADOR UNO</b></font></p></TEXTFORMAT>]]></term>
+	<term key="P2Wins"><![CDATA[<TEXTFORMAT LEADING="2"><p align="center"><font face="hooge 06_56" size="34" color="#00ccff" letterSpacing="-4.000000" kerning="0"><b>JUGADOR DOS</b></font></p></TEXTFORMAT>]]></term>
+	<term key="Wins"><![CDATA[<TEXTFORMAT LEADING="2"><p align="center"><font face="hooge 06_56" size="34" color="#00ccff" letterSpacing="-5.000000" kerning="0"><b>GANA EL PARTIDO</b></font></p></TEXTFORMAT>]]></term>
+	
+	
+	<term key="YouWinVSMenu"><![CDATA[<TEXTFORMAT LEADING="-2">p align="center"><font face="hooge 06_55" size="15" color="#ffffff" letterSpacing="0.000000" kerning="0"><b>MENU</b></font></p></TEXTFORMAT>]]></term>
+	<term key="YouWinVSReplay"><![CDATA[<TEXTFORMAT LEADING="-7"><p align="center"><font face="hooge 06_55" size="15" color="#24c4ea" letterSpacing="0.000000" kerning="0"><b>vovler a JUGAR</b></font></p></TEXTFORMAT>]]></term>
+	<term key="YouWinVSNew"><![CDATA[<TEXTFORMAT LEADING="-7"><p align="center"><font face="hooge 06_55" size="13" color="#24c4ea" letterSpacing="0.000000" kerning="0"><b>seleccionar PERSONAJE</b></font></p></TEXTFORMAT>]]></term>
+
+	
+	<!-- GAME WON SCREEN  -->
+	
+	<term key="Congratulations"><![CDATA[<TEXTFORMAT LEADING="-2"><p align="center"><font face="hooge 06_56" size="34" color="#663300" letterSpacing="-15.000000" kerning="0"><b>¡</b><font letterSpacing="-4.000000"><b>FELICITACIONES!</b></font></font></p></TEXTFORMAT>]]></term>
+	<term key="Congratulations2"><![CDATA[<TEXTFORMAT LEADING="-2"><p align="center"><font face="hooge 06_56" size="34" color="#fec601" letterSpacing="-15.000000" kerning="0"><b>¡</b><font letterSpacing="-4.000000"><b>FELICITACIONES!</b></font></font></p></TEXTFORMAT>]]></term>
+	<term key="CongratulationsText"><![CDATA[<TEXTFORMAT LEADING="-2"><p align="center"><font face="hooge 06_56" size="15" color="#fec601" letterSpacing="-2.000000" kerning="0">Has conseguido el Primer Lugar en el torneo de Tejo.</font></p></TEXTFORMAT>]]></term>
+	<term key="CongratulationsPressBar"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#00FFFF" LETTERSPACING="-2" KERNING="0"><B>PRESIONA BARRA PARA CONTINUAR</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#00FFFF" LETTERSPACING="-2" KERNING="0"></FONT></P></TEXTFORMAT>]]></term>
+
+	<!-- Character Unlocked SCREEN  -->
+		
+	<term key="CharacterUnlocked"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="34" COLOR="#FEC601" LETTERSPACING="-15" KERNING="0"><B></B><FONT LETTERSPACING="-4"><B>CHARACTER UNLOCKED!</B><FONT LETTERSPACING="-15"></FONT></FONT></FONT></P></TEXTFORMAT>]]></term>		
+	<term key="CharacterUnlocked2"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="34" COLOR="#663300" LETTERSPACING="-15" KERNING="0"><B></B><FONT LETTERSPACING="-4"><B>CHARACTER UNLOCKED!</B><FONT LETTERSPACING="-15"></FONT></FONT></FONT></P></TEXTFORMAT>]]></term>		
+		
+	<!-- YOU LOSE  -->
+	
+	<term key="PressBarToContinue"><![CDATA[<TEXTFORMAT LEADING="-2"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="12" COLOR="#00FFFF" LETTERSPACING="-2" KERNING="0"><B>PRESIONE BARRA CONTINUAR </B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="GameOver"><![CDATA[<TEXTFORMAT LEADING="2"><p align="center"><font face="hooge 06_56" size="47" color="#00ccff" letterSpacing="-9.000000" kerning="0"><b>FIN DEL JUEGO </b></font></p></TEXTFORMAT>]]></term>
+	<term key="Continue"><![CDATA[<TEXTFORMAT LEADING="2"><p align="right"><font face="hooge 06_56" size="47" color="#00ccff" letterSpacing="-9.000000" kerning="0"><b>CONTINUAR </b></font></p></TEXTFORMAT>]]></term>
+	<term key="YouLose"><![CDATA[<TEXTFORMAT LEADING="2"><<p align="center"><font face="hooge 06_56" size="47" color="#00ccff" letterSpacing="-24.000000" kerning="0"><b>¡</b><font letterSpacing="-9.000000"><b>HAS PERDIDO!</b></font></font></p></TEXTFORMAT>]]></term>
+	
+	<!-- Power Ups -->
+
+	<term key="PowerSpeed"><![CDATA[<TEXTFORMAT LEADING="-6"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>SUPER </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="-6"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>VELOCIDAD</B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="PowerSpecial"><![CDATA[<TEXTFORMAT LEADING="-6"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>SUPER </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="-6"><P ALIGN="CENTER"><FONT FACE="hooge 06_56" SIZE="18" COLOR="#FFFFFF" LETTERSPACING="-2" KERNING="0"><B>ESPECIAL</B></FONT></P></TEXTFORMAT>]]></term>
+	<term key="SpecialOn"><![CDATA[<TEXTFORMAT LEADING="-4"><P ALIGN="LEFT"><FONT FACE="hooge 06_56" SIZE="10" COLOR="#FFFFFF" LETTERSPACING="-4" KERNING="0"><B></B><FONT LETTERSPACING="-1"><B>¡ESPECIAL </B><FONT LETTERSPACING="-4"></FONT></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="-4"><P ALIGN="LEFT"><FONT FACE="hooge 06_56" SIZE="10" COLOR="#FFFFFF" LETTERSPACING="-1" KERNING="0"><B>PREPARADO!</B></FONT></P></TEXTFORMAT>]]></term>
+	
+	
+	<term key="LoadingText"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="RIGHT"><FONT FACE="hooge 05_58" SIZE="21" COLOR="#FFFFFF" LETTERSPACING="-3" KERNING="0">CARGANDO</FONT></P></TEXTFORMAT>]]></term>
+	
+	<term key="GameTitle"> Disco Resbaladizo</term>
+
+	
+</texts>
